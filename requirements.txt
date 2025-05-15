@@ -1,0 +1,6 @@
+streamlit
+numpy
+matplotlib
+seaborn
+fpdf
+python-socketio
