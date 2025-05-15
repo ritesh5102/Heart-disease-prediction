@@ -62,4 +62,9 @@ This project analyzes a real-world dataset containing clinical and lifestyle inf
 ## 🚀 **How to Use**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/ritesh5102/Heart-Disease-Analysis.git  
+   git clone https://github.com/ritesh5102/Heart-Disease-Analysis.git
+
+   ## 🎥 Demo Video
+
+[Click here to watch the demo video](https://github.com/ritesh5102/Heart-disease-prediction/blob/main/Heart%20Disease%20%26%20Symptom%20Detection%20App%20-%20Google%20Chrome%202025-05-16%2000-14-53.mp4?raw=true)
+
